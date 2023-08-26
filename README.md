@@ -34,14 +34,15 @@ The results are saved as video and image files.
 <img src="https://github.com/rahilmoosavi/DetectConstructionSafety/blob/master/newobject.jpg?raw=true" width="500">
 
 
+https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/15a0db17-0fb3-4de2-9e2e-7b7ed7718751
 
 
 
-https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/9b9f1fae-b47f-4174-b016-0b6df01d6f75
+ 
 
 
 
 
-https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/109a41e0-86f8-4e51-8e4b-4a621e4e5e6e
+
 
 
