@@ -36,8 +36,13 @@ The results are saved as video and image files.
 
 Video output
 
+https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/5ff3c5d2-ce0c-49f7-b4f6-28f58a208d08
 
-https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/7009fc2d-a5f3-4a80-b269-696790794c4f
+
+
+
+https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/dda83252-bc34-4aec-97a0-19778acd2023
+
 
 
 
