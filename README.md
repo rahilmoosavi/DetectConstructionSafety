@@ -40,7 +40,7 @@ Video output
 https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/7009fc2d-a5f3-4a80-b269-696790794c4f
 
 
-<video src="https://github.com/rahilmoosavi/DetectConstructionSafety/assets/82846974/b1b210ae-326c-41de-94ee-52ddfea0079e?raw=true" width="500">
+
 
 
 
